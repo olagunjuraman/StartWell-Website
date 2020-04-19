@@ -1,0 +1,20 @@
+.container{
+    background-color: #fff;
+   
+    
+    
+}
+
+.main1{
+    display: flex;
+    
+    justify-content: space-between;
+}
+
+.mai{
+
+    flex-basis: 30%;
+    box-sizing: border-box;
+   
+
+}
